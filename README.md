@@ -1,5 +1,5 @@
 # Stats202A
-Programs that are a part of Stats202A- Statistics Programming course at UCLA.
+Programs that are a part of Stats202A - Statistics Programming course at UCLA.  
 Most of the codes are written in R and Python. Some of them make use of RCPP (R and C++).
 
 HW2 - Linear Regression  
