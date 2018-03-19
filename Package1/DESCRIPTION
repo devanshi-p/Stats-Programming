@@ -1,0 +1,11 @@
+Package: Package1
+Type: Package
+Title: Linear Regression, Logistic Regression and PCA 
+Version: 0.1.0
+Author: Devanshi Patel
+Maintainer: Devanshi Patel <devu.2810@gmail.com>
+Description: Linear Regression, Logistic Regression and PCA based on QR decomposition
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000

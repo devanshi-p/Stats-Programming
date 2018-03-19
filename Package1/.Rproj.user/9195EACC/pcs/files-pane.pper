@@ -1,0 +1,9 @@
+{
+    "path" : "~/Package1/man",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
